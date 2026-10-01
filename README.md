@@ -59,6 +59,14 @@ I'm a final-year B.Tech student in **Artificial Intelligence** at Adi Shankara I
 - **Generative AI** — Microsoft
 - **Hackathons:** AI Samasya (ICGAIFE 3.0, IHRD Kerala) · YODHA — The Warrior of AI (Jyothi Engineering College)
 
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jinendran10/Jinendran10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jinendran10/Jinendran10/output/github-snake.svg">
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Jinendran10/Jinendran10/output/github-snake-dark.svg" width="100%">
+</picture>
+
 ---
 
 <p align="center">More about me, plus a few games, at <a href="https://portfolio-jinendran.vercel.app"><b>portfolio-jinendran.vercel.app</b></a></p>
