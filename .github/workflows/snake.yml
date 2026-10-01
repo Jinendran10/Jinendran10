@@ -24,7 +24,7 @@ jobs:
             dist/github-snake.svg?color_snake=#0b5f6b&color_dots=#ebedf0,#b9eef5,#6fd3e0,#2fa3b3,#12707d
 
       - name: Publish the animations to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
