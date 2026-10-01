@@ -1,40 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
   <defs>
     <radialGradient id="glow" cx=".8" cy=".45" r=".55">
-      <stop offset="0" stop-color="#2a3000"/>
-      <stop offset="1" stop-color="#050505"/>
+      <stop offset="0" stop-color="#06343c"/>
+      <stop offset="1" stop-color="#04090b"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#e5ff12" stroke-opacity=".06"/>
+      <path d="M40 0H0V40" fill="none" stroke="#5ccfe0" stroke-opacity=".06"/>
     </pattern>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
   </defs>
   <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
   <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#e5ff12" stroke-opacity=".45"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#5ccfe0" stroke-opacity=".45"/>
 
-  <circle cx="86" cy="78" r="22" fill="#e5ff12"/>
+  <circle cx="86" cy="78" r="22" fill="#5ccfe0"/>
   <path fill="#0a0a0a" transform="translate(64 56) scale(1.375)" d="M9 9.5c2.6-2 6.6-1.4 8 .6 1.3 1.9 4 1.3 4.6 3.9.5 2.1-1.3 3.9-3.3 4.6-1.8.6-1.3 3.3-4 3.9-2.2.5-3.3-1.3-4.6-3.3-.8-1.3-.6-2.6-2.6-3.9C5.5 14 6.9 11.1 9 9.5zM21.5 20.5c1.2-.6 2.8.2 2.6 1.6-.2 1.3-2 2.6-3.2 2-1-.5-.6-3 .6-3.6z"/>
   <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
-    <text x="122" y="74" fill="#e5ff12" font-size="22" font-weight="800" letter-spacing="1.5">JINENDRAN S.</text>
-    <text x="122" y="96" fill="#9a9b90" font-size="12" letter-spacing="4">AI / LLM SECURITY / SOFTWARE</text>
-    <text x="64" y="176" fill="#f4f4ef" font-size="52" font-weight="800" letter-spacing="-1.5">Systems that <tspan fill="#e5ff12" font-style="italic">think,</tspan></text>
+    <text x="122" y="74" fill="#5ccfe0" font-size="22" font-weight="800" letter-spacing="1.5">JINENDRAN S.</text>
+    <text x="122" y="96" fill="#8fa3a8" font-size="12" letter-spacing="4">AI / LLM SECURITY / SOFTWARE</text>
+    <text x="64" y="176" fill="#f4f4ef" font-size="52" font-weight="800" letter-spacing="-1.5">Systems that <tspan fill="#5ccfe0" font-style="italic">think,</tspan></text>
     <text x="64" y="232" fill="#f4f4ef" font-size="52" font-weight="800" letter-spacing="-1.5">learn &amp; respond.</text>
-    <text x="64" y="270" fill="#9a9b90" font-size="15">LLM security · AI orchestration · backend engineering · Kerala, India</text>
+    <text x="64" y="270" fill="#8fa3a8" font-size="15">LLM security · AI orchestration · backend engineering · Kerala, India</text>
   </g>
 
   <g transform="translate(860 60)">
-    <rect x="-20" y="-10" width="300" height="190" rx="14" fill="#e5ff12" opacity=".08" filter="url(#blur)"/>
-    <rect x="0" y="0" width="260" height="170" rx="12" fill="#070804" stroke="#e5ff12" stroke-opacity=".5"/>
-    <circle cx="16" cy="16" r="4" fill="#e5ff12"/><circle cx="30" cy="16" r="4" fill="#3a3e1c"/><circle cx="44" cy="16" r="4" fill="#3a3e1c"/>
-    <g stroke="#e5ff12" stroke-opacity=".4" stroke-width="1.2">
+    <rect x="-20" y="-10" width="300" height="190" rx="14" fill="#5ccfe0" opacity=".08" filter="url(#blur)"/>
+    <rect x="0" y="0" width="260" height="170" rx="12" fill="#050c0e" stroke="#5ccfe0" stroke-opacity=".5"/>
+    <circle cx="16" cy="16" r="4" fill="#5ccfe0"/><circle cx="30" cy="16" r="4" fill="#1d3a40"/><circle cx="44" cy="16" r="4" fill="#1d3a40"/>
+    <g stroke="#5ccfe0" stroke-opacity=".4" stroke-width="1.2">
       <path d="M50 60 130 50M50 60 130 85M50 60 130 120M50 60 130 150M50 100 130 50M50 100 130 85M50 100 130 120M50 100 130 150M50 140 130 50M50 140 130 85M50 140 130 120M50 140 130 150"/>
       <path d="M130 50 210 80M130 85 210 80M130 120 210 80M130 150 210 80M130 50 210 125M130 85 210 125M130 120 210 125M130 150 210 125"/>
     </g>
-    <g fill="#e5ff12">
+    <g fill="#5ccfe0">
       <circle cx="50" cy="60" r="7"/><circle cx="50" cy="100" r="7"/><circle cx="50" cy="140" r="7"/>
-      <circle cx="130" cy="50" r="7"/><circle cx="130" cy="85" r="7" fill="#f6ffb0"/><circle cx="130" cy="120" r="7"/><circle cx="130" cy="150" r="7"/>
-      <circle cx="210" cy="80" r="8" fill="#f6ffb0"/><circle cx="210" cy="125" r="8"/>
+      <circle cx="130" cy="50" r="7"/><circle cx="130" cy="85" r="7" fill="#c6f4fb"/><circle cx="130" cy="120" r="7"/><circle cx="130" cy="150" r="7"/>
+      <circle cx="210" cy="80" r="8" fill="#c6f4fb"/><circle cx="210" cy="125" r="8"/>
     </g>
   </g>
 </svg>
