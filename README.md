@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-jinendran.vercel.app"><img src="https://img.shields.io/badge/Portfolio-portfolio--jinendran.vercel.app-5CCFE0?style=for-the-badge&labelColor=04090B" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/jinendran-s"><img src="https://img.shields.io/badge/LinkedIn-jinendran--s-5CCFE0?style=for-the-badge&logo=linkedin&logoColor=5CCFE0&labelColor=04090B" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jinendran-s-7b1173291"><img src="https://img.shields.io/badge/LinkedIn-jinendran--s-5CCFE0?style=for-the-badge&logo=linkedin&logoColor=5CCFE0&labelColor=04090B" alt="LinkedIn"></a>
   <a href="mailto:jinendranjinu10@gmail.com"><img src="https://img.shields.io/badge/Email-jinendranjinu10%40gmail.com-5CCFE0?style=for-the-badge&logo=gmail&logoColor=5CCFE0&labelColor=04090B" alt="Email"></a>
   <a href="https://portfolio-jinendran.vercel.app/assets/Jinendran_S_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-5CCFE0?style=for-the-badge&labelColor=04090B" alt="Download CV"></a>
 </p>
